@@ -1,0 +1,7 @@
+Simultaneous TG/DTG-DSC analysis – application in ceramic artefacts
+Katerina Mihaylova,ekmihaylova@nbu.bg
+55-70
+https://doi.org/10.33919/ansd.22.7.6
+The aim of this paper is to promote thermal analysis as a method for the study of archaeological  ceramics.  In  order  to  achieve  this  goal,  the  nature  of the  thermal  methods  (thermal processes,  types  of  thermal  methods  and  their  application)  is  described.  Specific  experimental measurements by simultaneous TG/DTG-DSC analysis of ceramic archaeological artifacts are also presented.
+simultaneous TG/DTG-DSC analysis, archaeological chemistry, ceramic
+Atkins, P.W., T.L. Overton, J.P. Rourke, M.T. Weller, F.A. Armstrong, 2010. Shriver and Atkins Inorganic Chemistry. (5th ed.), W.H. Freeman and Company, 824. 
